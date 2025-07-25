@@ -4,6 +4,9 @@
 **Date**: 9 Janvier 2025  
 **Type**: Essai académique / Livre interdisciplinaire  
 
+📄 **Read the paper**: [пространства и времени.pdf (Russe)](./pdf/Trinite_quantique.pdf)
+
+
 ## 📖 Synopsis
 Cette œuvre ambitieuse explore les convergences entre:
 - Les concepts de **Trinité** dans les traditions religieuses (christianisme, kabbale, islam, hindouisme, bouddhisme)
