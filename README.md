@@ -4,7 +4,7 @@
 **Date**: 9 Janvier 2025  
 **Type**: Essai académique / Livre interdisciplinaire  
 
-📄 **Read the paper**: [пространства и времени.pdf (Russe)](./pdf/Trinite_quantique.pdf)
+📄 **Read the paper**: [Trinite_quantique.pdf](./pdf/Trinite_quantique.pdf)
 
 
 ## 📖 Synopsis
