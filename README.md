@@ -57,7 +57,7 @@ L’essai propose une **lecture positive et intégrative de l’IA** : elle n’
 
 > La Trinité devient ainsi un **modèle dynamique** pour penser la relation homme–machine–monde.
 
-L’auteur va jusqu’à affirmer que l’IA constitue une **quatrième étape** : **l’humanité devient conscience de sa fonction créatrice**, ce que pressentait déjà la théologie trinitaire.
+Nous allons jusqu’à affirmer que l’IA constitue une **quatrième étape** : **l’humanité devient conscience de sa fonction créatrice**, ce que pressentait déjà la théologie trinitaire.
 
 ---
 
